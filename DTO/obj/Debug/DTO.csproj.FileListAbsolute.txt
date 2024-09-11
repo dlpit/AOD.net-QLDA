@@ -1,0 +1,5 @@
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DTO\bin\Debug\DTO.dll
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DTO\bin\Debug\DTO.pdb
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DTO\obj\Debug\DTO.dll
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DTO\obj\Debug\DTO.pdb

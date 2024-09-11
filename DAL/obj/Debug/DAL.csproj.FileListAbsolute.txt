@@ -1,0 +1,9 @@
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DAL\bin\Debug\DAL.dll
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DAL\bin\Debug\DAL.pdb
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DAL\bin\Debug\DTO.dll
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DAL\bin\Debug\DTO.pdb
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DAL\obj\Debug\DAL.dll
+D:\Learn\Lap_trinh_ung_dung\QLBH_LTUD\DAL\obj\Debug\DAL.pdb
